@@ -1,0 +1,21 @@
+.small-container {
+  max-width: 92%;
+  margin: 0 auto;
+}
+
+.container-box {
+  position: relative;
+}
+.container-box .arrow {
+  position: absolute;
+  top: 43%;
+}
+.container-box .arrow.arrow-left {
+  left: 0;
+  cursor: pointer;
+}
+.container-box .arrow.arrow-right {
+  right: 0;
+  cursor: pointer;
+
+}
